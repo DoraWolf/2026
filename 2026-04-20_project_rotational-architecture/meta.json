@@ -1,0 +1,17 @@
+{
+  "title": {
+    "zh": "回转建筑研究",
+    "en": "Rotational Architecture Studies",
+    "ja": "回転建築の研究"
+  },
+  "summary": {
+    "zh": "围绕「回转」这一基本几何动作展开的形体生成与采光研究。",
+    "en": "Form-generation and daylighting studies built around the single geometric act of rotation.",
+    "ja": "「回転」という基本的な幾何動作をめぐる形態生成と採光の研究。"
+  },
+  "tags": [
+    "form-finding",
+    "geometry",
+    "daylight"
+  ]
+}
