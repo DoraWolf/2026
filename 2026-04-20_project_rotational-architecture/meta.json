@@ -1,0 +1,17 @@
+{
+  "title": {
+    "zh": "回转建筑研究",
+    "en": "Rotational Architecture Studies",
+    "ja": "回転建築の研究"
+  },
+  "summary": {
+    "zh": "以「回转」作为基本动作，研究形体生成与采光。",
+    "en": "Form and daylight studies built around rotation as the basic move.",
+    "ja": "「回転」を基本動作にして、形態と採光を組み立てる。"
+  },
+  "tags": [
+    "form-finding",
+    "geometry",
+    "daylight"
+  ]
+}

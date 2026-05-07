@@ -1,0 +1,17 @@
+{
+  "title": {
+    "zh": "Kangaroo 物理找形",
+    "en": "Kangaroo Physics Form-Finding",
+    "ja": "Kangaroo 物理形状探索"
+  },
+  "summary": {
+    "zh": "用 Kangaroo 解算器做找形和张力网。为后面轻型张拉结构与膜的几何打底。",
+    "en": "Form-finding and tension-net studies built with the Kangaroo solver. Sets up the geometry for light tensile and membrane systems.",
+    "ja": "Kangaroo ソルバーで形状探索とテンションネットを組む。軽量張力構造と膜の幾何の下地。"
+  },
+  "tags": [
+    "kangaroo",
+    "form-finding",
+    "structural"
+  ]
+}

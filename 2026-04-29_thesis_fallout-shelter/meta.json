@@ -1,0 +1,18 @@
+{
+  "title": {
+    "zh": "呼吸之间",
+    "en": "Between Breaths",
+    "ja": "呼吸の合間"
+  },
+  "summary": {
+    "zh": "把一段冷战时期的防空洞改造为城市地下的公共空间。改动尽量轻：重做地形，开几道采光井，原来的结构基本保留。一段被城市忽略的负空间重新被使用。",
+    "en": "Converts a Cold-War-era air-raid shelter into a public space below the city. The intervention stays light: regrade the floor, cut skylights through, leave most of the existing structure as it was.",
+    "ja": "冷戦期の防空壕を、都市の地下にある公共の場に転用する。手は軽く入れる。床を組み直し、採光井を抜き、既存の構造はおおむねそのまま残す。"
+  },
+  "tags": [
+    "adaptive-reuse",
+    "underground",
+    "daylight",
+    "public-space"
+  ]
+}
